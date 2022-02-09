@@ -1,0 +1,12 @@
+#made {
+  color: rgb(0, 0, 0);
+  text-align: center;
+  font-family: 'Wemakeprice-Bold';
+  line-height: 2;
+  position: fixed;
+  bottom: 0px;
+  font-weight: bold;
+  margin-top: 36px;
+  margin-bottom: 17px;
+  right: 12px;
+}
